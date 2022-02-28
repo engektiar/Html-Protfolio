@@ -1,0 +1,15 @@
+h1 {
+  font-size: 50px;
+}
+.name-heighlite {
+  color: orange;
+}
+.half-part {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.half-part img {
+  width: 100%;
+}
